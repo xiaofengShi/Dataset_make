@@ -1,0 +1,9 @@
+linear:1604
+circle:2355
+retangle:2372
+Pentagons:2399
+ellipse:2399
+triangle:2414
+quadrilateral:2422
+hexagon:2436
+total:18401
