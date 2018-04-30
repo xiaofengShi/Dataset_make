@@ -3,7 +3,7 @@
 _Author_ = 'xiaofeng'
 
 '''
-将自己的数据集制作成为tfrecord的格式,以进行网络训练 
+将自己的数据集制作成为tfrecord的格式,以进行网络训练，包含图像和label，用于分类网络
 '''
 
 import tensorflow as tf

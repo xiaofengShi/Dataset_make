@@ -10,6 +10,9 @@ size_height = 500
 size_width = 700
 channel = 3
 
+'''
+进行图像叠加，用于分类网络数据集的制作
+'''
 
 def add_two_img(input_path, extension, epoch_nums):
     # 从主目录中读取目录中的文件夹，随机选择两个文件夹，并生成新的文件夹的名称，之后再选择的两个文件夹中各自随机选择一张图像，接下来进行
